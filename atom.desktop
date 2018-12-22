@@ -4,9 +4,11 @@ Comment=A hackable text editor for the 21st Century.
 GenericName=Text Editor
 Exec=/usr/share/atom/atom %F
 Icon=atom
-Type=Application
+Type=Application dfhsdlif
 StartupNotify=true
 Categories=GNOME;GTK;Utility;TextEditor;Development;
 MimeType=text/plain;
 
+dfsf 
+dfssdfs
 hell
